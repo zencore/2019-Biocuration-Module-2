@@ -12,4 +12,4 @@ Introduction to Python:  https://github.com/zencore/2019-Biocuration-Module-2/bl
 
 **Webinar - 2**
 
-Introduction to Python (continued):  https://github.com/zencore/2019-Biocuration-Module-2/blob/master/webinars/webinar_2-introducing-python.ipynb ([download here](https://raw.githubusercontent.com/zencore/2019-Biocuration-Module-2/master/webinars/webinar_2-introducing-python.ipynb))
+Introduction to Python (continued):  https://github.com/zencore/2019-Biocuration-Module-2/blob/master/webinars/webinar_2-introducing_python.ipynb ([download here](https://raw.githubusercontent.com/zencore/2019-Biocuration-Module-2/master/webinars/webinar_2-introducing_python.ipynb))
