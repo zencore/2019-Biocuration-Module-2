@@ -9,3 +9,7 @@ Repository for the 2019 ICE Biocuration course, module 2
 Introduction to Jupyter:  https://github.com/zencore/2019-Biocuration-Module-2/blob/master/webinars/webinar_1-introducing_jupyter.ipynb
 
 Introduction to Python:  https://github.com/zencore/2019-Biocuration-Module-2/blob/master/webinars/webinar_1-introducing_python.ipynb
+
+**Webinar - 2**
+
+Introduction to Jupyter:  https://github.com/zencore/2019-Biocuration-Module-2/blob/master/webinars/webinar_2-introducing-python.ipynb
