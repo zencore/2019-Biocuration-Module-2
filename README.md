@@ -13,3 +13,17 @@ Introduction to Python - [view notebook in GitHub](https://github.com/zencore/20
 **Webinar - 2**
 
 Introduction to Python (continued) - [view notebook in GitHub](https://github.com/zencore/2019-Biocuration-Module-2/blob/master/webinars/webinar_2-introducing_python.ipynb) or [download notebook (right click -> save link as)](https://raw.githubusercontent.com/zencore/2019-Biocuration-Module-2/master/webinars/webinar_2-introducing_python.ipynb)
+
+
+**Session - Day 1**
+
+Session 1 - [view notebook in GitHub](https://github.com/zencore/2019-Biocuration-Module-2/blob/master/webinars/day_1-session_1.ipynb) or [download notebook (right click -> save link as)](https://raw.githubusercontent.com/zencore/2019-Biocuration-Module-2/master/webinars/day_1-session_1.ipynb)
+
+
+Data file 1 (full) - [view notebook in GitHub](https://github.com/zencore/2019-Biocuration-Module-2/blob/master/webinars/uniprot-tp53.tab) or [download notebook (right click -> save link as)](https://raw.githubusercontent.com/zencore/2019-Biocuration-Module-2/master/webinars/uniprot-tp53.tab)
+
+
+Data file 2 (small) - [view notebook in GitHub](https://github.com/zencore/2019-Biocuration-Module-2/blob/master/webinars/uniprot-tp53.tab) or [download notebook (right click -> save link as)](https://raw.githubusercontent.com/zencore/2019-Biocuration-Module-2/master/webinars/uniprot-tp53.tab)
+
+
+Data file 3 (organisms) - [view notebook in GitHub](https://github.com/zencore/2019-Biocuration-Module-2/blob/master/webinars/tp53-entry-organism.tab) or [download notebook (right click -> save link as)](https://raw.githubusercontent.com/zencore/2019-Biocuration-Module-2/master/webinars/tp53-entry-organism.tab)
