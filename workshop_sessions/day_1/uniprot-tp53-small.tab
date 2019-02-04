@@ -1,0 +1,5 @@
+Entry	Entry name	Status	Protein names	Gene names	Organism	Length
+O09185	P53_CRIGR	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	TP53 P53	Cricetulus griseus (Chinese hamster) (Cricetulus barabensis griseus)	393
+P79734	P53_DANRE	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	tp53 drp53	Danio rerio (Zebrafish) (Brachydanio rerio)	373
+P41685	P53_FELCA	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	TP53 TRP53	Felis catus (Cat) (Felis silvestris catus)	386
+P04637	P53_HUMAN	reviewed	Cellular tumor antigen p53 (Antigen NY-CO-13) (Phosphoprotein p53) (Tumor suppressor p53)	TP53 P53	Homo sapiens (Human)	393

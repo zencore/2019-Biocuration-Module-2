@@ -1,0 +1,59 @@
+Entry	Entry name	Status	Protein names	Gene names	Organism	Length
+O09185	P53_CRIGR	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	TP53 P53	Cricetulus griseus (Chinese hamster) (Cricetulus barabensis griseus)	393
+P79734	P53_DANRE	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	tp53 drp53	Danio rerio (Zebrafish) (Brachydanio rerio)	373
+P41685	P53_FELCA	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	TP53 TRP53	Felis catus (Cat) (Felis silvestris catus)	386
+P04637	P53_HUMAN	reviewed	Cellular tumor antigen p53 (Antigen NY-CO-13) (Phosphoprotein p53) (Tumor suppressor p53)	TP53 P53	Homo sapiens (Human)	393
+P67938	P53_BOSIN	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	TP53	Bos indicus (Zebu)	386
+Q29537	P53_CANLF	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	TP53 P53	Canis lupus familiaris (Dog) (Canis familiaris)	381
+Q9WUR6	P53_CAVPO	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	TP53	Cavia porcellus (Guinea pig)	391
+P61260	P53_MACFU	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	TP53 P53	Macaca fuscata fuscata (Japanese macaque)	393
+P02340	P53_MOUSE	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	Tp53 P53 Trp53	Mus musculus (Mouse)	390
+Q9TUB2	P53_PIG	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	TP53 P53	Sus scrofa (Pig)	386
+Q95330	P53_RABIT	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	TP53	Oryctolagus cuniculus (Rabbit)	391
+P56424	P53_MACMU	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	TP53 P53	Macaca mulatta (Rhesus macaque)	393
+O36006	P53_MARMO	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	TP53	Marmota monax (Woodchuck)	391
+P13481	P53_CHLAE	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	TP53	Chlorocebus aethiops (Green monkey) (Cercopithecus aethiops)	393
+Q8SPZ3	P53_DELLE	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	TP53 P53	Delphinapterus leucas (Beluga whale)	387
+P56423	P53_MACFA	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	TP53 P53	Macaca fascicularis (Crab-eating macaque) (Cynomolgus monkey)	393
+P67939	P53_BOVIN	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	TP53	Bos taurus (Bovine)	386
+P10361	P53_RAT	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	Tp53 P53	Rattus norvegicus (Rat)	391
+P51664	P53_SHEEP	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	TP53	Ovis aries (Sheep)	382
+Q9TTA1	P53_TUPBE	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	TP53 P53	Tupaia belangeri (Common tree shrew) (Tupaia glis belangeri)	393
+Q00366	P53_MESAU	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	TP53	Mesocricetus auratus (Golden hamster)	396
+P79892	P53_HORSE	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53) (Fragment)	TP53 P53	Equus caballus (Horse)	280
+Q64662	P53_SPEBE	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53) (Fragment)	TP53	Spermophilus beecheyi (California ground squirrel) (Otospermophilus beecheyi)	314
+Q29480	P53_EQUAS	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53) (Fragment)	TP53	Equus asinus (Donkey) (Equus africanus asinus)	207
+Q9ULZ0	T53G3_HUMAN	reviewed	TP53-target gene 3 protein (TP53-inducible gene 3 protein)	TP53TG3 TP53TG3A; TP53TG3B; TP53TG3C; TP53TG3D; TP53TG3E; TP53TG3F	Homo sapiens (Human)	132
+Q96S44	PRPK_HUMAN	reviewed	EKC/KEOPS complex subunit TP53RK (EC 3.6.-.-) (Atypical serine/threonine protein kinase TP53RK) (Nori-2) (TP53-regulating kinase) (EC 2.7.11.1) (p53-related protein kinase)	TP53RK C20orf64 PRPK	Homo sapiens (Human)	253
+Q9W678	P53_BARBU	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	tp53 p53	Barbus barbus (Barbel) (Cyprinus barbus)	369
+O12946	P53_PLAFE	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	tp53 p53	Platichthys flesus (European flounder) (Pleuronectes flesus)	366
+O14683	P5I11_HUMAN	reviewed	Tumor protein p53-inducible protein 11 (p53-induced gene 11 protein)	TP53I11 PIG11	Homo sapiens (Human)	189
+Q9W679	P53_TETMU	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	tp53 p53	Tetraodon miurus (Congo puffer)	367
+P25035	P53_ONCMY	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	tp53 p53	Oncorhynchus mykiss (Rainbow trout) (Salmo gairdneri)	396
+Q8NBR0	P5I13_HUMAN	reviewed	Tumor protein p53-inducible protein 13 (Damage-stimulated cytoplasmic protein 1)	TP53I13 DSCP1	Homo sapiens (Human)	393
+Q5F267	P5I13_MOUSE	reviewed	Tumor protein p53-inducible protein 13	Tp53i13 Trp53i13	Mus musculus (Mouse)	385
+B0BN44	P5I13_RAT	reviewed	Tumor protein p53-inducible protein 13	Tp53i13 Trp53i13	Rattus norvegicus (Rat)	388
+Q92143	P53_XIPMA	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	tp53 p53	Xiphophorus maculatus (Southern platyfish) (Platypoecilus maculatus)	342
+Q99PW4	PRPK_MOUSE	reviewed	EKC/KEOPS complex subunit Tp53rk (EC 3.6.-.-) (Atypical serine/threonine protein kinase Tp53rk) (Nori-2) (TP53-regulating kinase) (EC 2.7.11.1) (p53-related protein kinase)	Tp53rk Prpk Trp53rk	Mus musculus (Mouse)	244
+O93379	P53_ICTPU	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	tp53 p53	Ictalurus punctatus (Channel catfish) (Silurus punctatus)	376
+Q0VCQ8	P5I11_BOVIN	reviewed	Tumor protein p53-inducible protein 11 (p53-induced gene 11 protein)	TP53I11 PIG11	Bos taurus (Bovine)	189
+B3DMA0	P5I11_RAT	reviewed	Tumor protein p53-inducible protein 11 (p53-induced gene 11 protein)	Tp53i11 Pig11	Rattus norvegicus (Rat)	189
+Q9NS56	TOPRS_HUMAN	reviewed	E3 ubiquitin-protein ligase Topors (EC 2.3.2.27) (RING-type E3 ubiquitin transferase Topors) (SUMO1-protein E3 ligase Topors) (Topoisomerase I-binding RING finger protein) (Topoisomerase I-binding arginine/serine-rich protein) (Tumor suppressor p53-binding protein 3) (p53-binding protein 3) (p53BP3)	TOPORS LUN TP53BPL	Homo sapiens (Human)	1045
+Q12888	TP53B_HUMAN	reviewed	TP53-binding protein 1 (53BP1) (p53-binding protein 1) (p53BP1)	TP53BP1	Homo sapiens (Human)	1972
+P70399	TP53B_MOUSE	reviewed	TP53-binding protein 1 (53BP1) (p53-binding protein 1) (p53BP1)	Tp53bp1 Trp53bp1	Mus musculus (Mouse)	1969
+P10360	P53_CHICK	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	TP53	Gallus gallus (Chicken)	367
+P79820	P53_ORYLA	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	tp53 p53	Oryzias latipes (Japanese rice fish) (Japanese killifish)	352
+Q4QQM4	P5I11_MOUSE	reviewed	Tumor protein p53-inducible protein 11 (Transformation related protein 53 inducible protein 11) (p53-induced gene 11 protein)	Trp53i11 Pig11 Tp53i11	Mus musculus (Mouse)	189
+Q5REI9	P5I11_PONAB	reviewed	Tumor protein p53-inducible protein 11 (p53-induced gene 11 protein)	TP53I11 PIG11	Pongo abelii (Sumatran orangutan) (Pongo pygmaeus abelii)	189
+P07193	P53_XENLA	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	tp53	Xenopus laevis (African clawed frog)	363
+O57538	P53_XIPHE	reviewed	Cellular tumor antigen p53 (Tumor suppressor p53)	tp53 p53	Xiphophorus helleri (Green swordtail)	342
+Q53FA7	QORX_HUMAN	reviewed	Quinone oxidoreductase PIG3 (EC 1.-.-.-) (Tumor protein p53-inducible protein 3) (p53-induced gene 3 protein)	TP53I3 PIG3	Homo sapiens (Human)	332
+Q9Y2B4	T53G5_HUMAN	reviewed	TP53-target gene 5 protein (TP53-inducible gene 5 protein)	TP53TG5 C20orf10	Homo sapiens (Human)	290
+Q96A56	T53I1_HUMAN	reviewed	Tumor protein p53-inducible nuclear protein 1 (Stress-induced protein) (p53-dependent damage-inducible nuclear protein 1) (p53DINP1)	TP53INP1 P53DINP1 SIP	Homo sapiens (Human)	240
+Q8CFU8	T53I2_MOUSE	reviewed	Tumor protein p53-inducible nuclear protein 2 (Diabetes and obesity-regulated protein)	Tp53inp2 Dor Trp53inp2	Mus musculus (Mouse)	221
+Q8IXH6	T53I2_HUMAN	reviewed	Tumor protein p53-inducible nuclear protein 2 (Diabetes and obesity-regulated gene) (p53-inducible protein U) (PIG-U)	TP53INP2 C20orf110 DOR PINH	Homo sapiens (Human)	220
+Q8CHM3	T53I2_RAT	reviewed	Tumor protein p53-inducible nuclear protein 2 (Diabetes and obesity-regulated gene) (Fragment)	Tp53inp2 Dor Trp53inp2	Rattus norvegicus (Rat)	199
+Q9HCN2	TPIP1_HUMAN	reviewed	p53-regulated apoptosis-inducing protein 1 (p53AIP1)	TP53AIP1	Homo sapiens (Human)	124
+A1A5B4	ANO9_HUMAN	reviewed	Anoctamin-9 (Transmembrane protein 16J) (Tumor protein p53-inducible protein 5) (p53-induced gene 5 protein)	ANO9 PIG5 TMEM16J TP53I5	Homo sapiens (Human)	782
+Q13625	ASPP2_HUMAN	reviewed	Apoptosis-stimulating of p53 protein 2 (Bcl2-binding protein) (Bbp) (Renal carcinoma antigen NY-REN-51) (Tumor suppressor p53-binding protein 2) (53BP2) (p53-binding protein 2) (p53BP2)	TP53BP2 ASPP2 BBP	Homo sapiens (Human)	1128
+Q8CG79	ASPP2_MOUSE	reviewed	Apoptosis-stimulating of p53 protein 2 (Tumor suppressor p53-binding protein 2) (53BP2) (p53-binding protein 2) (p53BP2)	Tp53bp2 Aspp2 Trp53bp2	Mus musculus (Mouse)	1128
