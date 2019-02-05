@@ -1,5 +1,7 @@
 # 2019-Biocuration-Module-2
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zencore/2019-Biocuration-Module-2/master)
+
 Repository for the 2019 ICE Biocuration course, module 2
 
 **Collaborative notes:** https://piratenpad.de/p/2019-Biocuration-Module-2
